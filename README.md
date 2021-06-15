@@ -1,8 +1,4 @@
 # Code Refactor Starter Code
-User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
 
 Acceptance Criteria
 GIVEN a webpage meets accessibility standards
@@ -17,9 +13,14 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-Title:
+User Story:
+AS A marketing agency
+I WANT a website that follows accessibility standards
+SO THAT our site fits SEO, 
 
-Discription: 
+Title: Horiseon Website
+
+Discription: Horiseon Website that meats Accessibility Standards so that when a user with disabilities access the site they are able to experience the content.  
 
 Screenshot of it Deployed: 
 
