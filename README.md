@@ -13,15 +13,16 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-User Story:
+# User Story:
 AS A marketing agency
 I WANT a website that follows accessibility standards
 SO THAT our site fits SEO, 
 
-Title: Horiseon Website
+# Title: Horiseon Website
 
-Discription: Horiseon Website that meats Accessibility Standards so that when a user with disabilities access the site they are able to experience the content.  
+# Discription: 
+Horiseon Website that meats Accessibility Standards so that when a user with disabilities access the site they are able to experience the content.   
 
-Screenshot of it Deployed: 
+# Screenshot of it Deployed: 
 
-Link to Deployed Site:
+# Link to Deployed Site:
