@@ -27,7 +27,7 @@ HTML <br/>
 CSS
 
 # Screenshot of it Deployed: 
-![Alt text](https://photos.google.com/photo/AF1QipOiZfzjoft0TmJ7ObzWp9hhbsV19Gw8C-QH_xEF "Deployed ScreenShot")
+![Alt text](https://photos.google.com/photo/AF1QipOiZfzjoft0TmJ7ObzWp9hhbsV19Gw8C-QH_xEF) 
 
 # Link to Deployed Site:
 https://mjh1985codeman.github.io/Challenge-1-mjh-Repo/#social-media-marketing
