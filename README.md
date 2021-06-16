@@ -23,10 +23,13 @@ SO THAT our site is accessible to those that may have disabilities.
 # Discription: 
 Horiseon Website that meats Accessibility Standards so that when a user with disabilities access the site they are able to experience the content.   
 # Technology Used:
-HTML
+HTML <br/>
 CSS
 
 # Screenshot of it Deployed: 
+![Alt text](https://photos.google.com/photo/AF1QipOiZfzjoft0TmJ7ObzWp9hhbsV19Gw8C-QH_xEF "Deployed ScreenShot")
 
 # Link to Deployed Site:
 https://mjh1985codeman.github.io/Challenge-1-mjh-Repo/#social-media-marketing
+# Link to GitHub Repo: 
+https://github.com/mjh1985codeman/Challenge-1-mjh-Repo
